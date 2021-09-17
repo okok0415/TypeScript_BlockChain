@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript_BlockChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/okok0415/TypeScript_BlockChain.git",
+  "author": "okok0415 <dlawjdals11@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
